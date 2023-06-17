@@ -1,0 +1,26 @@
+body{
+    background: radial-gradient(yellow, yellowgreen);
+}
+h1{
+    color: rgb(4, 4, 124);
+    font-size: 35px;
+    text-align: center;
+    text-shadow: blue 2px 2px;
+}
+pre{
+    color: black;
+    font-size: 20px;
+}
+.ans{
+    color: maroon;
+    font-size: 20px;
+}
+p{
+    font-size: 20px;
+    color: maroon;
+    font-weight: bold;
+}
+hr{
+    background-color: blue;
+    height: 2px;
+}
